@@ -1,4 +1,4 @@
-<h1>Kanban</h1>
+<h1 align="center">Kanban</h1>
 
 ## 🚀 Tecnologias
 
